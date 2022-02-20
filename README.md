@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - Instagram 📷: @sebitcr  
 
-## 💼Tehnical Skills
+## 💼Technical Skills
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebitcr&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebitcr&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
