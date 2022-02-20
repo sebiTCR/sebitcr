@@ -1,5 +1,5 @@
 ### Heyo! 👋
-I'm just a developer working at [OGST](https://github.com/og-studio) (an small gamedev team). I love tech-related stuff (like electronics), writing stories, and doing art related stuff like drawing or composing music. Since I always loved doing artworks/music with some background lore, I've decided to team up with some friends and combine all of our skills to create mysterious worlds. I hope one day OGST will finally become an actual company.
+I'm just a developer working at [OGST](https://github.com/og-studio) (a small gamedev team). I love tech-related stuff (like electronics), writing stories, and doing art related stuff like drawing or composing music. Since I always loved doing artworks/music with some background lore, I've decided to team up with some friends and combine all of our skills to create mysterious worlds. I hope one day OGST will finally become an actual company.
 
 <!--
 **sebiTCR/sebitcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
