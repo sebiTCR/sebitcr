@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: The Ascender, a physics based platformer game
+- 🔭 I’m currently working on: Remaking Codename:CVD 
 - 🌱 I’m currently learning Advanced C++ & OpenGL
 - 📫 How to reach me: 
   - Instagram 📷: @sebitcr  
